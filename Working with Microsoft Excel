@@ -1,0 +1,31 @@
+Lesson 10 of 24
+Microsoft Excel
+Working with Microsoft Excel
+
+Microsoft Excel(opens in a new tab) (MS Excel) is a spreadsheet application created by Microsoft. MS Excel is one of the most-used tools for data analysis.
+
+You can use MS Excel to enter, examine, and interpret data in a variety of ways.  
+
+You can manipulate and clean the data in rows and columns prior to analysis.
+MS Excel has built-in data analysis functions and features, such as filtering, formulas, and pivot tables.
+You can also use MS Excel to help visualize data sets and gain insights from data.
+
+MS Excel offers different types of charts, such as pie, bar, line, and scatter plot.
+You can use built-in templates and MS Excel’s recommendations for a chart based on your data.
+You can combine different chart types on one spreadsheet in MS Excel.
+Take a moment to review an MS Excel example
+
+Here is an example that illustrates how you can enter data in columns and rows, select the data, and then insert a chart in Microsoft Excel.
+
+The sample data is the number of video downloads over four months. You can choose from many types of available charts in MS Excel. In this example, a line chart is inserted to indicate the trend is increasing. You could also show this by selecting a bar chart. You can customize the text, colors, labels, and other chart features.
+
+A screen capture of an example Microsoft Excel spreadsheet in which the months of May, June, July, and August are in the first column, A. The number of video downloads is in the second column, B. The data in column A and B is selected to yield a line chart displayed in the foreground of the spreadsheet. The line chart shows the number of video downloads increasing from 107 in May to 540 in August.
+
+Note: A potential downside is that MS Excel primarily offers two-dimensional charts with data on an x-axis and a y-axis. So, it can limit the ability to incorporate multiple variables into a chart at the same time.
+
+Explore more!
+
+Check out these resources:
+
+Excel video training (opens in a new tab)– a series of introductory online resources from Microsoft to get started with Excel
+Excel Easy(opens in a new tab) – online tutorials from Excel Easy about how to use MS Excel features, with examples
