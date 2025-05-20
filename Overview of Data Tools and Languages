@@ -1,0 +1,97 @@
+Quiz 1
+
+Question
+02/05
+Which of the following statements is correct about open source software?
+
+ 
+
+Select the three that apply.
+
+Anyone can run open source software.
+
+Correctly checked
+Open source software is privately available for the registered community of contributors.
+
+Incorrectly checked
+Open source software allows developers to share insights, ideas, and code. 
+
+Correctly checked
+Anyone can see the source code and understand how the software works.
+
+Incorrectly unchecked
+Incorrect
+Open source software allows developers to share insights, ideas, and code. Anyone can see the source code and anyone can run the software.
+
+--- 
+
+Question
+03/05
+All of the following statements about a GitHub repository are correct except one.
+
+
+
+Which statement is incorrect?
+
+You can edit private and public repositories from contributors.
+
+Correctly selected
+You can add files like images, spreadsheets, and data sets to a repository.
+
+Correctly unselected
+You can review the revision history for files in a repository.
+
+Correctly unselected
+You can create your own public and private repositories.
+
+Correctly unselected
+Correct
+People work in repositories in GitHub. You can create your own repositories, upload files like images and spreadsheets, and review the revision history, too. You can also contribute to public, open source projects by getting a copy of a project’s repository to work with and submit for review. You can’t edit private and public repositories.
+
+--- 
+
+Question
+04/05
+What is one of the benefits of open source software to a data science team?
+
+ 
+
+Select the two that apply.
+
+Open source software allows a data science team to designate intellectual property rights for the code. 
+
+Correctly unchecked
+Open source software provides a way to access the latest technologies.
+
+Correctly checked
+Open source software allows a data science team to take ownership and publish code to earn money.
+
+Correctly unchecked
+Open source software provides a way to build skills and learn new software quickly. 
+
+Correctly checked
+Correct
+Open source software benefits data science teams because it’s a way to access the latest technologies, build skills, and learn new software quickly.  
+
+---- 
+
+Question
+05/05
+A person states, “You can use open source however you like.”
+
+
+
+How should you respond to this statement about open source?
+
+“You can use open source however you like if you are in the role of a contributor.”
+
+Correctly unselected
+“You cannot use open source however you like because it’s for a privately registered community of contributors.”
+
+Correctly unselected
+“You cannot use open source however you like because it comes with a license that the users must follow.”
+
+Correctly selected
+Correct
+People cannot use open source however they want. This is a misconception. Open source software comes with a license that the users must follow. Each project might have different usage terms and conditions.
+
